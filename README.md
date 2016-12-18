@@ -3,7 +3,7 @@ Polygon triangulation library for Haxe. Ported from https://github.com/mapbox/ea
 
 Used in https://github.com/vujadin/BabylonHx
 
-Usage
+Usage:
 ```
 // Triangulating a polygon with a hole
 var data = Earcut.earcut([0,0, 100,0, 100,100, 0,100,  20,20, 80,20, 80,80, 20,80], [4]);
