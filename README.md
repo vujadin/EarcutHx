@@ -3,6 +3,9 @@ Polygon triangulation library for Haxe. Ported from https://github.com/mapbox/ea
 
 Used in https://github.com/vujadin/BabylonHx
 
+![alt tag](https://github.com/vujadin/EarcutHx/blob/master/bhx.jpg?raw=true)
+
+
 Usage:
 ```
 // Triangulating a polygon with a hole
